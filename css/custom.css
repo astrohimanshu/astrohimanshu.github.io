@@ -1,0 +1,6 @@
+/* Hide "Made with Hugo & Hugo Profile" footer credit */
+.footer .credits,
+.footer .powered-by,
+.footer small {
+  display: none !important;
+}

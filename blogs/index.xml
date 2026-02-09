@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Himanshu | Computational Data Science</title>
+    <link>https://astrohimanshu.github.io/blogs/</link>
+    <description>Recent content in Blogs on Himanshu | Computational Data Science</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://astrohimanshu.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Big Bang Was an Expansion — Not an Explosion</title>
+      <link>https://astrohimanshu.github.io/blogs/big-bang/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://astrohimanshu.github.io/blogs/big-bang/</guid>
+      <description>&lt;p&gt;One of the most common misconceptions among people new to astronomy is the idea that &lt;strong&gt;the Big Bang was like a bomb exploding in empty space&lt;/strong&gt;, with galaxies flying outward as fragments of that explosion.&lt;/p&gt;&#xA;&lt;p&gt;This picture, while intuitive, is &lt;strong&gt;fundamentally incorrect&lt;/strong&gt;.&lt;br&gt;&#xA;The Big Bang was &lt;strong&gt;not an explosion of matter into space&lt;/strong&gt; — it was an &lt;strong&gt;expansion of space itself&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In this post, I’ll explain why this distinction matters, and how observations strongly rule out the “cosmic explosion” idea. :contentReference[oaicite:0]{index=0}&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
