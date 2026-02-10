@@ -322,7 +322,7 @@ With a background in Astronomy and Engineering Physics, I bridge science and dat
                 <div class="row">
                     <div class="col-auto h-100">
                         
-                        <a href="/resume/Himanshu_Resume.pdf" class="btn" download
+                        <a href="/resume/resume.pdf" class="btn" download
 			  >
                             View Résumé
                         </a>
@@ -1028,7 +1028,7 @@ Worked on simulation and computational physics projects using COMSOL, Python, an
                         </div>
                         <h5 class="card-title bg-transparent mt-1">Hamiltonian Monte Carlo for Cosmological Parameters Estimation</h5>
                         <div class="card-text bg-transparent secondary-font">
-                            Implemented Hamiltonian Monte Carlo from scratch to estimate cosmological parameters using Supernova Ia data; achieved 69% chain acceptance.
+                            Implemented Hamiltonian Monte Carlo from scratch to estimate cosmological parameters using Supernova Ia data; achieved 69% chain acceptance.GR convergence ratio ∼0.96.
                         </div>
                     </div>
                     
@@ -1254,17 +1254,11 @@ Worked on simulation and computational physics projects using COMSOL, Python, an
 </div>
 </footer><script src="/bootstrap-5/js/bootstrap.bundle.min.js"></script>
 <script>
-    if (localStorage.getItem("pref-theme") === "dark") {
+    if (document.body.className.includes("light")) {
         document.documentElement.classList.add('dark');
         document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-        document.documentElement.classList.remove('dark');
-    } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.documentElement.classList.add('dark');
-        document.body.classList.add('dark');
+        localStorage.setItem("pref-theme", 'dark');
     }
-
 </script>
 <script>
     document.getElementById("theme-toggle").addEventListener("click", () => {
