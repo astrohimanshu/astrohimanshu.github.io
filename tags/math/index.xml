@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on Himanshu | Computational Data Science</title>
+    <link>http://localhost:1313/tags/math/</link>
+    <description>Recent content in Math on Himanshu | Computational Data Science</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Should You Commit? A Sequential Decision Thought Experiment</title>
+      <link>http://localhost:1313/blogs/when-to-commit/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/when-to-commit/</guid>
+      <description>&lt;p&gt;❤️📊 &lt;strong&gt;When should you commit?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I started thinking about commitment as a &lt;em&gt;sequential decision problem&lt;/em&gt; rather than an emotional one.&lt;/p&gt;&#xA;&lt;p&gt;The motivation came from a simple observation:&lt;br&gt;&#xA;many important life decisions — dating, hiring, career choices — share the same structure:&#xA;you see options one at a time, decisions are irreversible, and the future is unknown.&lt;/p&gt;&#xA;&lt;p&gt;So I framed the following &lt;strong&gt;thought experiment&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;problem-setup&#34;&gt;Problem Setup&lt;/h2&gt;&#xA;&lt;p&gt;Assume a simplified (and unrealistic) world:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

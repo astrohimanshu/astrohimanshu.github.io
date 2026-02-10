@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simulation on Himanshu | Computational Data Science</title>
+    <link>http://localhost:1313/tags/simulation/</link>
+    <description>Recent content in Simulation on Himanshu | Computational Data Science</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Should You Commit? A Sequential Decision Thought Experiment</title>
+      <link>http://localhost:1313/blogs/when-to-commit/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/when-to-commit/</guid>
+      <description>&lt;p&gt;❤️📊 &lt;strong&gt;When should you commit?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I started thinking about commitment not as an emotional decision, but as a &lt;strong&gt;sequential decision problem&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Many real-life situations share the same structure: dating, hiring, career moves.&lt;br&gt;&#xA;You encounter options one at a time, decisions are irreversible, and you don’t know what lies ahead.&lt;/p&gt;&#xA;&lt;p&gt;So I framed a simple (and very unrealistic) &lt;strong&gt;thought experiment&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;problem-setup&#34;&gt;Problem Setup&lt;/h2&gt;&#xA;&lt;p&gt;Assume the following:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You will encounter (N) options sequentially&lt;/li&gt;&#xA;&lt;li&gt;The order is random&lt;/li&gt;&#xA;&lt;li&gt;You can only rank the current option relative to those already seen&lt;/li&gt;&#xA;&lt;li&gt;Once an option is rejected, it cannot be recalled&lt;/li&gt;&#xA;&lt;li&gt;The goal is to &lt;strong&gt;maximize the probability of selecting the best option&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The question is not &lt;em&gt;which&lt;/em&gt; option to choose —&lt;br&gt;&#xA;but &lt;strong&gt;when&lt;/strong&gt; to choose.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

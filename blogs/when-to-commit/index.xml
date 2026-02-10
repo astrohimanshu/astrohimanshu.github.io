@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>When Should You Commit? A Sequential Decision Thought Experiment on Himanshu | Computational Data Science</title>
+    <link>http://localhost:1313/blogs/when-to-commit/</link>
+    <description>Recent content in When Should You Commit? A Sequential Decision Thought Experiment on Himanshu | Computational Data Science</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/when-to-commit/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
