@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Himanshu | Computational Data Science</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://astrohimanshu.github.io/tags/</link>
     <description>Recent content in Tags on Himanshu | Computational Data Science</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://astrohimanshu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decision-Making</title>
-      <link>http://localhost:1313/tags/decision-making/</link>
+      <link>https://astrohimanshu.github.io/tags/decision-making/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/decision-making/</guid>
+      <guid>https://astrohimanshu.github.io/tags/decision-making/</guid>
       <description></description>
     </item>
     <item>
       <title>Monte-Carlo</title>
-      <link>http://localhost:1313/tags/monte-carlo/</link>
+      <link>https://astrohimanshu.github.io/tags/monte-carlo/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/monte-carlo/</guid>
+      <guid>https://astrohimanshu.github.io/tags/monte-carlo/</guid>
       <description></description>
     </item>
     <item>
       <title>Probability</title>
-      <link>http://localhost:1313/tags/probability/</link>
+      <link>https://astrohimanshu.github.io/tags/probability/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/probability/</guid>
+      <guid>https://astrohimanshu.github.io/tags/probability/</guid>
       <description></description>
     </item>
     <item>
       <title>Simulation</title>
-      <link>http://localhost:1313/tags/simulation/</link>
+      <link>https://astrohimanshu.github.io/tags/simulation/</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/simulation/</guid>
+      <guid>https://astrohimanshu.github.io/tags/simulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Astronomy</title>
-      <link>http://localhost:1313/tags/astronomy/</link>
+      <link>https://astrohimanshu.github.io/tags/astronomy/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/astronomy/</guid>
+      <guid>https://astrohimanshu.github.io/tags/astronomy/</guid>
       <description></description>
     </item>
     <item>
       <title>Big Bang</title>
-      <link>http://localhost:1313/tags/big-bang/</link>
+      <link>https://astrohimanshu.github.io/tags/big-bang/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/big-bang/</guid>
+      <guid>https://astrohimanshu.github.io/tags/big-bang/</guid>
       <description></description>
     </item>
     <item>
       <title>Cosmology</title>
-      <link>http://localhost:1313/tags/cosmology/</link>
+      <link>https://astrohimanshu.github.io/tags/cosmology/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cosmology/</guid>
+      <guid>https://astrohimanshu.github.io/tags/cosmology/</guid>
       <description></description>
     </item>
     <item>
       <title>Physics</title>
-      <link>http://localhost:1313/tags/physics/</link>
+      <link>https://astrohimanshu.github.io/tags/physics/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/physics/</guid>
+      <guid>https://astrohimanshu.github.io/tags/physics/</guid>
       <description></description>
     </item>
   </channel>
