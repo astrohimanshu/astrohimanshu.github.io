@@ -1,0 +1,244 @@
+baseURL: "https://astrohimanshu.github.io/"
+languageCode: "en-us"
+title: "Himanshu | Computational Data Science"
+theme: hugo-profile
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
+  page: ["HTML", "RSS"]
+
+enableRobotsTXT: true
+
+pagination:
+  pagerSize: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+Menus:
+  main:
+    - identifier: blogs
+      name: blogs
+      url: /blogs
+      weight: 2
+
+
+params:
+  title: "Himanshu"
+  description: "M.Tech Computational Data Science | Applied Data Scientist | Researcher"
+  favicon: "/images/favicon.ico"
+
+  useBootstrapCDN: false
+  mathjax: ture
+  animate: true
+
+  theme:
+    defaultTheme: "dark"
+
+  font:
+    fontSize: 1rem
+    fontWeight: 400
+    lineHeight: 1.5
+    textAlign: left
+
+  navbar:
+    align: ms-auto
+    brandName: "Himanshu"
+    disableSearch: true
+    stickyNavBar:
+      enable: true
+      showOnScrollUp: true
+    menus:
+      disableAbout: false
+      disableExperience: false
+      disableEducation: false
+      disableProjects: false
+      disableAchievements: false
+      disableContact: false
+  customCSS:
+    - "css/custom.css"
+
+  # HERO SECTION
+  hero:
+    enable: true
+    intro: "Hi, I’m"
+    title: "Himanshu."
+    subtitle: "M.Tech in Computational Data Science @ NIT Karnataka"
+    content: >
+      I explore data-driven approaches to problem-solving — from mathematical modelling and statistical inference 
+      to end-to-end machine learning deployment on Azure.  
+      With a background in Astronomy and Engineering Physics, I bridge science and data to create meaningful insights.
+    image: /images/profile.jpg
+    roundImage: true
+    bottomImage:
+      enable: true
+    button:
+      enable: true
+      name: "View Résumé"
+      url: "/resume/resume.pdf"
+      download: true
+      newPage: false
+    socialLinks:
+      fontAwesomeIcons:
+        - icon: fab fa-github
+          url: https://github.com/astrohimanshu
+        - icon: fab fa-linkedin
+          url: https://linkedin.com/in/astrohimanshu
+
+  # ABOUT
+  about:
+    enable: true
+    title: "About Me"
+    image: "/images/me33.png"
+    content: |-
+      I am a **Computational Data Science graduate student** at the **National Institute of Technology, Karnataka**.  
+      My work spans **data analysis, image processing, machine learning**, and **Bayesian inference** for scientific and industrial applications.  
+
+      Previously, during my **M.Sc. in Astronomy at IIT Indore**, I carried out research on galaxy clusters using 
+      the **Sunyaev–Zel’dovich effect**, involving Python-based simulations, C++ integration, and Monte Carlo inference.
+    skills:
+      enable: true
+      title: "Core Skills"
+      items:
+        - "Python"
+        - "C++"
+        - "SQL"
+        - "TensorFlow"
+        - "PyTorch"
+        - "Azure ML & CI/CD"
+        - "Data Visualization (Tableau, Power BI)"
+        - "Statistical Modeling & Astrostatistics"
+
+  # EXPERIENCE
+  experience:
+    enable: true
+    title: "Research & Academic Experience"
+    items:
+      - company: "Indian Institute of Technology, Indore"
+        companyUrl: "https://www.iiti.ac.in"
+        jobs:
+          - name: "Master’s Research – Galaxy Cluster Analysis via Sunyaev–Zel’dovich Effect"
+            date: "2019 – 2021"
+            content: |-
+              Conducted research on galaxy clusters through simulation and data analysis:
+              - Processed astronomical data using Python and C++ for modeling SZ effect.
+              - Performed image processing and Monte Carlo analysis for parameter inference.
+              - Compared simulated and observed cluster data for model validation.
+            info:
+              content: "Tools: Python, C++, NumPy, Matplotlib, MCMC"
+      - company: "Central Electronics Limited (CEL), Uttar Pradesh"
+        companyUrl: "https://www.celindia.co.in"
+        jobs:
+          - name: "Undergraduate Industrial Training"
+            date: "2017"
+            content: |-
+              Completed industrial training focused on **piezoelectric devices and quality control processes**:
+              - Studied assembly-line manufacturing and quality assurance of piezoelectric elements.
+              - Performed testing of piezoelectric constants and capacitance measurements.
+              - Gained exposure to applications of piezoelectric systems in **defence and explosives** technology.
+            info:
+              content: "Domain: Electronics Manufacturing | Materials Characterization"
+  
+
+
+  # ACHIEVEMENTS
+  achievements:
+    enable: true
+    title: "Achievements & Certifications"
+    items:
+      - title: "Microsoft Certified: Azure Data Scientist Associate"
+        content: "Certified in end-to-end ML model development and deployment on Azure (2025)."
+        image: /images/achievement.jpg
+      - title: "Poster Presentation – Astronomical Society of India"
+        content: "Presented research on galaxy cluster modeling at the XXXIXth ASI Meeting (2021)."
+        image: /images/achievement.jpg
+
+  # PROJECTS
+  projects:
+    enable: true
+    title: "Key Projects"
+    items:
+      - title: "COVID-19 Time Series Forecasting"
+        content: "Built an ARIMA-based model for COVID-19 case forecasting and validated predictions against live data with 95% confidence accuracy."
+        image: /images/projects/covid.png
+        badges:
+          - "Python"
+          - "ARIMA"
+          - "Time Series"
+        links:
+          - icon: fab fa-github
+            url: "https://github.com/astrohimanshu/forecasting-covid-19-with-ARIMA"
+
+      - title: "Hamiltonian Monte Carlo for Cosmological Parameters Estimation"
+        content: "Implemented Hamiltonian Monte Carlo from scratch to estimate cosmological parameters using Supernova Ia data; achieved 69% chain acceptance.GR convergence ratio ∼0.96."
+        image: /images/projects/hmc.png
+        badges:
+          - "Python"
+          - "MCMC"
+          - "Astrophysics"
+        links:
+          - icon: fab fa-github
+            url: "https://github.com/astrohimanshu/Hamiltonian-monte-carlo-for-paramter-estimation"
+
+      - title: "Importance Sampling on Supernova Ia Data"
+        content: "Applied importance sampling for Bayesian inference on cosmological datasets, reaching 88% acceptance for parameter estimation."
+        image: /images/projects/imp.png
+        badges:
+          - "Python"
+          - "Monte Carlo"
+          - "Astrophysics"
+        links:
+          - icon: fab fa-github
+            url: "https://github.com/astrohimanshu/Importance-Sampling-applied-for-cosmological-parameters"
+
+  # EDUCATION
+  education:
+    enable: true
+    title: "Education"
+    items:
+      - title: "M.Tech. Computational Data Science"
+        school:
+          name: "National Institute of Technology, Karnataka"
+          url: "https://www.nitk.ac.in"
+        date: "2025 – Present"
+        GPA: "8.95 / 10"
+        content: |
+          Focused on applied data science, cloud deployment, and AI-based modeling.
+
+      - title: "M.Sc. Astronomy"
+        school:
+          name: "Indian Institute of Technology, Indore"
+          url: "https://www.iiti.ac.in"
+        date: "2019 – 2021"
+        GPA: "8.39 / 10"
+        content: |
+          Data-driven curriculum with applications in Astrostatistics and image processing.
+          Research focus on simulation and modeling of galaxy clusters.
+
+      - title: "B.Tech. Engineering Physics"
+        school:
+          name: "Delhi Technological University"
+          url: "http://www.dtu.ac.in"
+        date: "2014 – 2018"
+        GPA: "7.69 / 10"
+        content: |
+          Majored in Electronics with a Minor in Robotics.  
+          Worked on simulation and computational physics projects using COMSOL, Python, and C++.
+
+
+  # CONTACT
+  contact:
+    enable: true
+    title: "Contact Me"
+    content: "My inbox is always open. Whether you have a question, a project idea, or just want to say hi — I’ll be happy to connect!"
+    btnName: "Email Me"
+    btnLink: "mailto:officialhimanshu163@gmail.com"
+
+  footer:
+    showCopyright: false
+    showThemeInfo: false
+    socialNetworks:
+      github: https://github.com/astrohimanshu
+      linkedin: https://linkedin.com/in/astrohimanshu
