@@ -1,6 +1,6 @@
 ---
 title: "Reconstructing the Missing: PDEs, Harmonic Functions, and Building an Inpainting Solver from Scratch"
-date: 2026-02-03
+date: 2026-03-02
 author: Himanshu
 tags: ["numerical-methods", "pde", "finite-difference", "linear-algebra", "optimization"]
 image: "/images/blogs/laplace-inpainting-sor/original.png"
